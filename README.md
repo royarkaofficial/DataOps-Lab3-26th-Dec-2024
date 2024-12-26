@@ -1,2 +1,1 @@
-# DataOps-Lab3-26th-Dec-2024
-This is for Pandas
+# This is for Pandas
